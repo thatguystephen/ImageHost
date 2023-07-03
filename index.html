@@ -4,7 +4,8 @@
     <script>
       function refreshImage() {
         var img = document.getElementById("image");
-        img.src = "https://raw.githubusercontent.com/thatguystephen/ImageHost/main/Edits/01b7ce3991d6d82590c16a2f35ffe044fac3fe233a.jpg" + Date.now();
+        var imageUrl = "https://raw.githubusercontent.com/thatguystephen/ImageHost/main/Edits/01b7ce3991d6d82590c16a2f35ffe044fac3fe233a.jpg";
+        img.src = imageUrl + "?timestamp=" + new Date().getTime();
       }
 
       // Refresh image every hour (3600000 milliseconds)
