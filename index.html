@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script>
+      function refreshImage() {
+        var img = document.getElementById("image");
+        img.src = "https://raw.githubusercontent.com/thatguystephen/ImageHost/main/Edits/Edits/12549163.jpg?cachebuster=" + Date.now();
+      }
+
+      // Refresh image every hour (3600000 milliseconds)
+      setInterval(refreshImage, 3600000);
+    </script>
+  </head>
+  <body>
+    <img id="image" src="" alt="Image" />
+  </body>
+</html>
