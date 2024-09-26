@@ -1,0 +1,226 @@
+{
+  "color": "#1DD75E",
+  "name": "system24-theme",
+  "description": "a theme meant to match the system24 theme by refract0r for vencord, and the spicetify theme that inspired it",
+  "authors": [ 
+    {
+      "name": "flowersnax",
+      "id": "300410184046608384"
+    } 
+  ],
+  "spec": 2,
+  "plus": {
+    "version": 0,
+    "mentionLineColor": "#1dd75e"
+  },
+  
+    "semanticColors": {
+    "HEADER_PRIMARY": [
+        "#b3b3b3"
+      ],
+    
+    "HEADER_SECONDARY": [
+        "#808080"
+      ],
+    
+    "TEXT_NORMAL": [
+        "#b3b3b3"
+      ],
+    
+    "TEXT_MUTED": [
+        "#4d4d4d"
+      ],
+    
+    "TEXT_LINK": [
+        "#1dbec5"
+      ],
+    
+    "INTERACTIVE_NORMAL": [
+        "#1a1a1a"
+      ],
+    
+    "INTERACTIVE_HOVER": [
+        "#808080"
+      ],
+    
+    "INTERACTIVE_ACTIVE": [
+        "#808080"
+      ],
+    
+    "INTERACTIVE_MUTED": [
+        "#4d4d4d"
+      ],
+    
+    "BACKGROUND_PRIMARY": [
+       "#121212"
+    ],
+
+    "BACKGROUND_SECONDARY": [
+        "#1a1a1a"
+    ],
+
+    "BACKGROUND_SECONDARY_ALT": [
+        "#121212"
+    ],
+
+    "BACKGROUND_TERTIARY": [
+        "#121212"
+    ],
+
+    "BACKGROUND_ACCENT": [
+        "#1a1a1a"
+    ],
+
+    "BACKGROUND_MENTIONED": [
+        "#264c32"
+    ],
+
+    "BACKGROUND_MENTIONED_HOVER": [
+        "#2a4234"
+    ],
+    
+    "BACKGROUND_FLOATING": [
+        "#111111"
+    ],
+
+    "BACKGROUND_NESTED_FLOATING": [
+        "#1a1a1a"
+    ],
+
+    "BACKGROUND_MESSAGE_HOVER": [
+        "#111111"
+      ],
+    
+    "BACKGROUND_MODIFIER_ACTIVE": [
+        "#1a1a1a"
+      ],
+       
+    "BACKGROUND_MODIFIER_ACCENT": [
+        "#222222"
+      ],
+    
+    "BG_BACKDROP": [
+        "#1a1a1a"
+      ],
+
+    "BG_BASE_PRIMARY": [
+        "#121212"
+    ],
+
+    "BG_BASE_SECONDARY": [
+        "#121212"
+    ],
+
+    "CARD_PRIMARY_BG": [
+        "#1a1a1a"
+      ],
+    
+    "CARD_SECONDARY_BG": [
+        "#1a1a1a"
+      ],
+    
+    "CHANNEL_ICON": [
+        "#808080"
+      ],
+    
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+        "#121212"
+      ],
+    
+    "TEXT_DANGER": [
+        "#e586a5"
+      ],
+    
+    "BACKGROUND_MODIFIER_SELECTED": [
+        "#222222"
+      ],
+    
+    "SCROLLBAR_THIN_TRACK": [
+        "transparent"
+      ],
+    "SCROLLBAR_AUTO_THUMB": [
+        "#1a1a1a"
+      ],
+  
+    "SCROLLBAR_AUTO_TRACK": [
+       "#1a1a1a"
+      ],
+    
+    "EMBED_BACKGROUND": [
+        "#1a1a1a"
+      ],
+
+    "KEYBOARD":[
+        "#121212"
+      ],
+    
+    "CHAT_SWIPE_TO_REPLY_BACKGROUND": [
+        "#1dd75e"
+      ],
+
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+        "#121212"
+    ],
+
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+        "transparent"
+    ],
+
+    "REDESIGN_BUTTON_SELECTED_PRESSED_BACKGROUND": [
+        "#1dd75e"
+    ],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+        "transparent"
+    ],
+
+    "SPOILER_HIDDEN_BACKGROUND": [
+        "#1e1f22"
+    ],
+
+    "SPOILER_REVEALED_BACKGROUND": [
+        "#2a2a2a"
+    ],
+
+    "ICON_MUTED": [
+        "#4d4d4d" 
+      ],
+
+    "STATUS_DND": [
+        "#e586a5"
+    ],
+    "STATUS_IDLE": [
+        "#e0ae57"
+    ],
+
+    "STATUS_OFFLINE": [
+        "#4d4d4d"
+    ],
+
+    "STATUS_ONLINE": [
+        "#1dd75e"
+    ]
+    
+    },
+  
+    "rawColors": {
+      "RED_400": "#1dd75e",
+      "BRAND_230": "#1dd75e",
+      "BRAND_345": "#1dd75e",
+      "BRAND_500": "#264c32",
+      "BRAND_560": "#1dd75e",
+      "GREEN_360": "#1dd75e",
+      "PLUM_11": "#121212",
+      "PLUM_16": "#1a1a1a",
+      "PLUM_17": "#1a1a1a",
+      "PLUM_20": "#121212",
+      "PLUM_22": "#1dd75e",
+      "PRIMARY_400": "#808080",
+      "PRIMARY_460": "#1dd75e",
+      "ROLE_DEFAULT": "rgba(0, 0, 0, .3)"
+    },
+
+    "unsafe_colors": {
+      "CHAT_GREY": "#121212"
+    }
+  }

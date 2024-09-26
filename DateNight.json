@@ -1,0 +1,195 @@
+{
+    "name": "DateNight",
+    "description": "Art by Vayneeee4.",
+    "authors": [
+
+        {
+            "name": "Bryan",
+            "id": "719283297955610686"
+        },
+        {
+             "name": "catnip.json",
+             "id": "980160393093730395"
+        },
+        {
+             "name": "sovimuffins",
+             "id": "739495873859289139"
+        },
+        {
+            "name": "Glitch",
+            "id": "628840840160083978"
+        }
+    ],
+    "plus": {
+       "version": 0,
+       "mentionLineColor": "#6786CA",
+       "iconpack": "rosiecord-plumpy"
+  },
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#5289D6"
+        ],
+        "HEADER_SECONDARY": [
+            "#5289D6"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_PRIMARY": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#5289D6"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#5289D6"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#5289D6"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#F2A0EB"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#5289D6"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#000000"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#F2A0EB"
+        ],
+        "BACKGROUND_MENTIONED": [ 
+            "rgba(103, 134, 202, 0.4)"
+       ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#F2A0EB"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#141414"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#141414"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#141414"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#222222"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#1ced20"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#1ced20"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#1ced20"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#1ced20"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#5289D6"
+        ],
+        "TEXT_LINK": [
+            "#F2A0EB"
+        ],
+        "TEXT_DANGER": [
+            "#F2A0EB"
+        ],
+        "KEYBOARD": [
+            "#000000"
+        ],
+        "CHANNEL_ICON": [
+            "#F2A0EB"
+        ],
+        "CHAT_BACKGROUND": [
+            "#141414"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#000000"
+        ],
+        "CARD_PRIMARY_BG": [
+            "#141414"
+        ],
+        "CARD_SECONDARY_BG": [
+            "#222222"
+        ],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+            "#141414"
+        ],
+        "BG_BACKDROP": [
+            "04010173"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#5289D6",
+        "PRIMARY_100": "#5289D6",
+        "PRIMARY_200": "#F2A0EB",
+        "PRIMARY_230": "#ffffff",
+        "PRIMARY_300": "#5289D6",
+        "PRIMARY_360": "#F2A0EB",
+        "PRIMARY_400": "#5289D6",
+        "PRIMARY_600": "#141414",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_645": "#141414",
+        "PRIMARY_660": "#141414",
+        "PRIMARY_700": "#141414",
+        "PRIMARY_800": "#000000",
+        "PLUM_1": "#ffffff",
+        "PLUM_3": "#6786CA",
+        "PLUM_6": "#6786CA",
+        "PLUM_9": "#ffffff",
+        "PLUM_10": "#A4A4A4",
+        "PLUM_11": "#000000",
+        "PLUM_13": "#4C6396",
+        "PLUM_17": "#000000",
+        "PLUM_18": "#000000",
+        "PLUM_19": "#000000",
+        "PLUM_20": "#000000",
+        "PLUM_22": "#000000",
+        "PLUM_24": "#000000",
+        "BRAND_260": "#F2A0EB",
+        "BRAND_360": "#F2A0EB",
+        "BRAND_500": "#5289D6",
+        "BRAND_560": "#5289D6",
+        "YELLOW_300": "#6786CA",
+        "YELLOW_260": "#6786CA",
+        "GREEN_600": "#141414",
+        "GREEN_360": "#5289D6",
+        "RED_400": "#b00b69",
+        "WHITE_500": "#f9f1f1"
+    },
+    
+    "background": {
+        "blur": 0.5,
+        "url": "https://github.com/user-attachments/assets/02504e29-770f-4359-9e2e-2989d3aff980",
+        "alpha": 0.7
+    },
+        "color": "#EA42CD"
+}
