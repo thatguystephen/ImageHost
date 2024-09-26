@@ -8,7 +8,7 @@
     "id": "324325381752619009"
      }
 	],
-
+  "spec": 2,
   "semanticColors": {
 		"BACKGROUND_PRIMARY": ["#242228"],
 		"BACKGROUND_SECONDARY": ["#242228"],
