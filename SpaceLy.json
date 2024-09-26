@@ -1,22 +1,15 @@
 {
-  /** Theme's name */
   "name": "SpaceLy",
-  /** Theme's description */
   "description": "a description",
 	"version": "2.0",
-  /** Array of theme authors */
   "authors": [
 	   {
-    /** Author's nickname */
     "name": "spacenomad",
-    /** Author's Discord user ID */
     "id": "324325381752619009"
      }
 	],
 
-  /** Object containing the semantic color recolorations */
   "semanticColors": {
-    /** Semantic key */
 		"BACKGROUND_PRIMARY": ["#242228"],
 		"BACKGROUND_SECONDARY": ["#242228"],
     "BG_BASE_PRIMARY": ["#242228"],
@@ -51,7 +44,6 @@
 	
 		
   },
-  /** Object containing the raw color recolorations */
   "rawColors": {
     "PRIMARY": "#242228",
     "PRIMARY_100": "#ffffff",
@@ -85,13 +77,9 @@
     "RED": "#eed2c8",
     "RED_400": "#eed2c8"
   },
-  /** Background that shows up in chat */
   "background": {
-    /** Determines the blurriness of the background (goes from 0-1) */
     "blur": 0.4,
-    /** A link to the background */
     "url": "string",
-    /** Determines the opacity of the background (goes from 0-1, affects color too) */
     "alpha": 0.8,
   },
 }
